@@ -22,7 +22,7 @@ variable "business_unit" {
   default = "it"
 }
 
-variable "vent_name"{
+variable "vnet_name"{
     type = string
     default = "rohit-kyn-vnet"
 }
